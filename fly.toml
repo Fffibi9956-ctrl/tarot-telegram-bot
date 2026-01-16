@@ -1,4 +1,4 @@
-app = "fibi tarot bot"  # Уникальное имя (можно изменить)
+app = "fibi-tarot-bot"  # Уникальное имя (можно изменить)
 
 kill_signal = "SIGINT"
 kill_timeout = 5
