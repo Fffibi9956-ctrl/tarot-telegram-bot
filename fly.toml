@@ -1,4 +1,4 @@
-app = "tarot-bot-fibi"
+app = "fibi-tarot-714591"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
